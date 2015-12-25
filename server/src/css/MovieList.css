@@ -1,0 +1,26 @@
+@CHARSET "UTF-8";
+
+div.googleList{
+	width: 20%;
+	height: auto;
+	float: right;
+	position: relative;
+	background-color: #000000;
+}
+
+div.MovieList{
+	width: 75%;
+	height:auto;
+	float: left;
+	position: relative;
+	background-color: #000000;
+}
+
+#Outer {
+    width: 95%;
+    height: 90%
+    top: 12%;
+    overflow: scroll;
+	float: left;
+    position: relative;
+}

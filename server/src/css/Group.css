@@ -1,0 +1,46 @@
+@CHARSET "UTF-8";
+
+div.button{
+	text-align: center;
+	font-size: 30px;	
+}
+
+button{
+	font-size: 15px;
+}
+
+div.group{
+	width: 100%;
+	height: auto;
+	position: relative;
+	overflow: scroll;
+	margin: auto;
+}
+
+div.groupName{
+	width: 68%;
+	height: auto;
+	position: relative;
+	float:right;
+	overflow: scroll;
+	margin: auto;
+}
+
+div.groupImage{
+	width: 30%;
+	height: auto;
+	position: relative;
+	float:left;
+	overflow: scroll;
+	margin: auto;
+}
+
+img.group{
+	width: 30px;
+	height: 30px;
+}
+
+p{
+	max-width: 100%;
+	position: relative;
+}
